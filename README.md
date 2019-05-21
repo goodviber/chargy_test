@@ -4,7 +4,7 @@ This can be computed by using the GitHub API to fetch all of the user's public G
 
 Documentation for the GitHub API can be found at http://developer.github.com
 
-rake run[username] to start program, e.g. rake run[goodviber]
+#rake run[username] to start program, e.g. rake run[goodviber]
 
-rspec spec to run tests
+#rspec spec to run tests
 
