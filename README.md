@@ -8,3 +8,5 @@ rake run[username] to start program, e.g. rake run[goodviber]
 
 rspec spec to run tests
 
+open twitter.html in web browser
+
