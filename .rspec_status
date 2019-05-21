@@ -1,0 +1,6 @@
+example_id                                | status | run_time        |
+----------------------------------------- | ------ | --------------- |
+./spec/api_caller_spec.rb[1:1:1:1]        | passed | 0.64073 seconds |
+./spec/api_caller_spec.rb[1:1:2:1]        | passed | 0.41548 seconds |
+./spec/chargy_spec.rb[1:1]                | passed | 0.00021 seconds |
+./spec/language_calculator_spec.rb[1:1:1] | passed | 0.62935 seconds |
